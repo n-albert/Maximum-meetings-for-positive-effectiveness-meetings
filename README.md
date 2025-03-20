@@ -24,4 +24,4 @@ Complete the function *maxMeetings* in the editor.
 
 **Returns**
 
-*int:* the maximum possible number of meetings while maintaning a positive index.
+*int:* the maximum possible number of meetings while maintaining a positive index.
